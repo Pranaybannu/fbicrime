@@ -1,0 +1,11 @@
+pandas
+numpy
+streamlit
+statsmodels
+sklearn
+xgboost
+joblib
+os
+plotly
+plotlyexpress
+graphobjects
